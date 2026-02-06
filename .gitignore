@@ -6,7 +6,7 @@ target/
 *.iml
 *.ipr
 .mvn/
-*.mvnw
-*.mvnw.cmd
-*.HELP.md
-*.gitattributes
+.mvnw
+*.cmd
+*.md
+.gitattributes
